@@ -22,7 +22,6 @@
     "website": "18-s66-the-art-of-counting-spring-2003"
   },
   "course_title": "The Art of Counting",
-  "hide_download": true,
   "course_description": "The subject of enumerative combinatorics deals with counting the number of elements of a finite set. For instance, the number of ways to write a positive integer n as a sum of positive integers, taking order into account, is _2{{< sup \"n-1\" >}}_. We will be concerned primarily with _bijective proofs_, i.e., showing that two sets have the same number of elements by exhibiting a bijection (one-to-one correspondence) between them. This is a subject which requires little mathematical background to reach the frontiers of current research. Students will therefore have the opportunity to do original research. It might be necessary to limit enrollment.\n",
   "department_numbers": [
     "18"
@@ -33,7 +32,6 @@
     "content": "a8e8bb7c-9acd-25fc-a2b8-198d895acf0c",
     "website": "18-s66-the-art-of-counting-spring-2003"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets"
   ],

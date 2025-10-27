@@ -4,8 +4,6 @@ description: 'Problems #2'
 file: /courses/18-s66-the-art-of-counting-spring-2003/2be47111e31d128291ab5b47c47f54cc_hw2.pdf
 file_size: 100872
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
